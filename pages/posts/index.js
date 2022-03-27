@@ -4,9 +4,9 @@ import Link from "next/link";
 const { motion, AnimatePresence } = require("framer-motion");
 
 const NUS = "./images/nus.jpg";
-const BROKEN = "./images/broken_title.jpg";
+const BROKEN = "./images/broken_title.JPG";
 const HEARTRATE = "./images/heartrate.png";
-const FIRSTHACKATHON = "./images/govtech_1.jpg";
+const FIRSTHACKATHON = "./images/govtech_1.JPG";
 const IMP = "./images/IMP.jpeg";
 
 const posts = () => {

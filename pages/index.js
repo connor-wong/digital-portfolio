@@ -6,7 +6,7 @@ const { motion, AnimatePresence } = require("framer-motion");
 
 const Profile = "/images/Profile.jpg";
 const Nus = "./images/nus.jpg";
-const BROKEN = "./images/broken_title.jpg";
+const BROKEN = "./images/broken_title.JPG";
 
 const Home = () => {
   const router = useRouter();

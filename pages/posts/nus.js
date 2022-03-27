@@ -3,8 +3,8 @@ import { Row, Col, Figure } from "react-bootstrap";
 const { motion, AnimatePresence } = require("framer-motion");
 
 const WORLDNOISEMAPMOCKUP = "../images/worldnoisemap mockup.png";
-const AUDIOPROCESS = "../images/Audio Process.jpg";
-const PHONECALIBRATOR = "../images/Phone Calibrator.jpg";
+const AUDIOPROCESS = "../images/Audio Process.JPG";
+const PHONECALIBRATOR = "../images/Phone Calibrator.JPG";
 const MICROCLIMATE = "../images/microclimate.jpg";
 const GEN2SEPARATE = "../images/gen2 separate.png";
 const GEN2OVERALL = "../images/gen2 overall.png";

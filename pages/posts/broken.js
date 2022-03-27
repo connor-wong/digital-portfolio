@@ -2,9 +2,9 @@ import Head from "next/head";
 import { Row, Col, Figure } from "react-bootstrap";
 const { motion, AnimatePresence } = require("framer-motion");
 
-const BROKENONE = "../images/broken_1.jpg";
-const BROKENTWO = "../images/broken_2.jpg";
-const BROKENTHREE = "../images/broken_3.jpg";
+const BROKENONE = "../images/broken_1.JPG";
+const BROKENTWO = "../images/broken_2.JPG";
+const BROKENTHREE = "../images/broken_3.JPG";
 
 const Broken = () => {
   return (

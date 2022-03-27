@@ -2,11 +2,11 @@ import Head from "next/head";
 import { Row, Col, Figure } from "react-bootstrap";
 const { motion, AnimatePresence } = require("framer-motion");
 
-const WORLDNOISEMAP = "./images/worldnoisemap.jpg";
+const WORLDNOISEMAP = "./images/worldnoisemap.JPG";
 const MICROCLIMATE = "./images/microclimate.jpg";
 const RASPITAR = "./images/raspitar.jpg";
-const SINGHEALTH = "./images/singhealth.jpg";
-const BROKEN = "./images/broken_title.jpg";
+const SINGHEALTH = "./images/singhealth.JPG";
+const BROKEN = "./images/broken_title.JPG";
 
 const works = () => {
   return (

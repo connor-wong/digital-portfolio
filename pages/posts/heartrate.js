@@ -1,11 +1,11 @@
 import Head from "next/head";
-import { Row, Col, Figure } from "react-bootstrap";
+import { Figure } from "react-bootstrap";
 const { motion, AnimatePresence } = require("framer-motion");
 
 const HEARTRATE = "../images/heartrate.png";
 const CIRCUIT = "../images/heartrate_circuit.jpg";
-const DIAGRAMONE = "../images/heartrate_1.jpg";
-const DIAGRAMTWO = "../images/heartrate_2.jpg";
+const DIAGRAMONE = "../images/heartrate_1.JPG";
+const DIAGRAMTWO = "../images/heartrate_2.JPG";
 
 const Heartrate = () => {
   return (

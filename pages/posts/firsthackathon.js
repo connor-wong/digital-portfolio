@@ -3,10 +3,10 @@ import { Row, Col, Figure } from "react-bootstrap";
 const { motion, AnimatePresence } = require("framer-motion");
 
 const FirstHackathon = () => {
-  const FIRSTHACKATHON_1 = "../images/govtech_1.jpg";
-  const FIRSTHACKATHON_2 = "../images/govtech_2.jpg";
-  const FIRSTHACKATHON_3 = "../images/govtech_3.jpg";
-  const FIRSTHACKATHON_4 = "../images/govtech_4.jpg";
+  const FIRSTHACKATHON_1 = "../images/govtech_1.JPG";
+  const FIRSTHACKATHON_2 = "../images/govtech_2.JPG";
+  const FIRSTHACKATHON_3 = "../images/govtech_3.JPG";
+  const FIRSTHACKATHON_4 = "../images/govtech_4.JPG";
 
   return (
     <>
