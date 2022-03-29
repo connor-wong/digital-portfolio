@@ -41,15 +41,15 @@ const Topnav = () => {
               target="_blank"
             >
               &nbsp;
-              <BsLinkedin style={{ paddingBottom: "2px" }} /> Connect with me
-              &nbsp;
+              <BsLinkedin style={{ paddingBottom: "2px" }} />
+              Connect with me &nbsp;
             </Nav.Link>
           </Nav>
-          ]
           <Nav>
             <Nav.Link href="https://github.com/connor-wong/" target="_blank">
               &nbsp;
-              <BsGithub style={{ paddingBottom: "2px" }} /> GitHub &nbsp;
+              <BsGithub style={{ paddingBottom: "2px" }} />
+              GitHub &nbsp;
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
